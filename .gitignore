@@ -29,7 +29,7 @@ coverage/
 # Env files
 .env
 .env.*.local
-
+.env.local
 # OS generated
 .DS_Store
 Thumbs.db
