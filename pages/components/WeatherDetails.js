@@ -35,7 +35,7 @@ import WeatherAlert from "./WeatherAlert";
 import Image from "next/image";
 
 // Dynamic import for Map component
-const Map = dynamic(() => import("./Map"), {
+const Map = dynamic(() => import("../../components/Map"), {
   ssr: false,
   loading: () => (
     <Box

@@ -29,6 +29,7 @@ import {
   ResponsiveContainer,
 } from "recharts";
 import { useRouter } from "next/navigation";
+import Map from "../../components/Map";
 
 // Styled Components
 const StyledPaper = styled(Paper)(({ theme }) => ({
