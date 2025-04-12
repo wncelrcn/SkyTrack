@@ -7,7 +7,7 @@ export default function Details() {
   return (
     <>
       <Head>
-        <title>SkyTrackp</title>
+        <title>SkyTrack</title>
         <meta name="description" content="Weather dashboard application" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="notification-permission" content="weather-alerts" />
